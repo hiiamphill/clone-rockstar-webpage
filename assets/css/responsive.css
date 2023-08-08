@@ -30,12 +30,7 @@
 }
 
 /* Tablet & Mobile */
-@media (max-width: 70.375em) {      
-
-    .slide-title,
-    .slide-name {
-    color: green;
-    }
+@media (max-width: 70.375em) {
 
     .slide-name {
         font-size: 3.6rem;
